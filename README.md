@@ -1,4 +1,4 @@
-# Spring Boot REST API Example
+# Spring Security Example with Spring MVC and JSP files
 Spring Security Example of a MVC application.
 
 > Difficulty Level
