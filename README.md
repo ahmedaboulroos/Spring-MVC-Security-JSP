@@ -1,4 +1,4 @@
-# Spring Boot REST API Example
+# Spring Security Example with Spring MVC and JSP files
 Spring Security Example of a MVC application.
 
 > Difficulty Level
@@ -27,5 +27,5 @@ Spring Security Example of a MVC application.
 <br />
 
 > Notes
-- This Example is for <b>Educational Purposes</b> of how to implement a RESTful API using Spring MVC, Not Meant as a reference for designing a production grade Spring Security application.
+- This Example is for <b>Educational Purposes</b> of how to implement basic security concepts in Spring, Not Meant as a reference for designing a production grade Spring Security application.
 - If you're looking for a <b>Complete Example of a Production Grade Spring Security Application</b>, check out this other more complicated Example [In-Progress].
